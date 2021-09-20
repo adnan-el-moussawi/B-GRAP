@@ -33,7 +33,3 @@ Bibtex citations:
 }
 
 
-
-The "giraph.lri.lahdak.*" packages contain the main paratitioning algorithms, analytic algorithms, formatters, etc.
-The "running_example" package provides a Java class to configure a Giraph Job with a Hadoop cluster setting and a Java class to run an example of BGRAP algorithm.
-
